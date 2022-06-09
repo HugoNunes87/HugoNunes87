@@ -1,8 +1,8 @@
 
 ## Olá eu sou o Hugo Nunes ✌️!
-<div align="center" display="flex" >
+<div align="center" >
   <a href="https://github.com/HugoNunes87">
-  <img height="1901em" src="https://github-readme-stats.vercel.app/api?username=HugoNunes87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=HugoNunes87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoNunes87&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: flex"><br>
